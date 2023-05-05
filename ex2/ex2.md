@@ -12,6 +12,6 @@ Additional information and installation methods : https://github.com/crytic/slit
 
 ## Test Slither on the demo file in this repo
 
-`solc-select install 0.8.0`
-`solc-select use 0.8.0`
-`slither token.sol`
+`solc-select install 0.8.0`<br />
+`solc-select use 0.8.0`<br />
+`slither token.sol`<br />
