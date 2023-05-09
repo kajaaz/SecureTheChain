@@ -1,4 +1,14 @@
-# Exercise 1
+# Exercise 3
+
+Best : Install Echidna in Docker (see more here : https://github.com/crytic/echidna)
+```
+docker pull ghcr.io/crytic/echidna/echidna:testing-master
+docker run --rm -it -v $(pwd):/app ghcr.io/crytic/echidna/echidna
+```
+
+To test with Echidna, use :
+`echidna-test template.sol`
+
 
 **Table of contents:**
 
