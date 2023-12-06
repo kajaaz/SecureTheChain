@@ -17,6 +17,5 @@
 ? Enter the value to send to the code :
 
 ***************************************
-
-Help : https://www.evm.codes/precompiled <br />
-Source : EVM Puzzle
+Source : EVM Puzzle <br />
+https://github.com/fvictorio/evm-puzzles/tree/master
